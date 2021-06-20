@@ -4,6 +4,9 @@ function: detect smiling faces
 
 main file: smile_detection.py
 
+environments:
+python, cv2, mtcnn_cv2
+
 input format:
   video, image, floder of images, webcamera
 
